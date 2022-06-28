@@ -14,13 +14,14 @@
 ```
 https://github.com/deep-dive-in-python/main.git
 ```
-  - Git pull
+  - Git 다운받기
 ```
 git pull
 ```
-  - Git branch 만들기
+  - Git 올리기
 ```
-git checkout -b branchname
+git commit
+git push 
 ```
 
 
