@@ -20,7 +20,8 @@ git pull
 ```
   - Git 올리기
 ```
-git commit
+git add .
+git commit -am "message"
 git push 
 ```
 
