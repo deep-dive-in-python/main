@@ -1,5 +1,5 @@
 # Python
-데이터분석 대회에 나가는 스터디입니다. 2022-06-27 ~
+이상 신용거래 예측 데이터분석 대회에 나가는 스터디입니다. 2022-06-27 ~
 
 
 ## 스터디 방식
@@ -7,7 +7,10 @@
 - 📗 스터디 자료 : [데이콘 이상 신용거래 예측](https://dacon.io/competitions/official/235930/overview/description)
   - 우수 코드를 필사하며 노트(Jupyter notebook)에 정리
   - 제안, 질문은 [Issues](https://github.com/deep-dive-in-python/main/issues) 를 이용
-
+- 비슷한 경진대회 코드
+  - [산업제어시스템 보안위협 탐지 AI 경진대회 1위](https://dacon.io/competitions/official/235624/codeshare/1830?page=1&dtype=recent)
+  - [산업제어시스템 보안위협 탐지 AI 경진대회 2위](https://dacon.io/competitions/official/235624/codeshare/1831?page=1&dtype=recent)
+  - [산업제어시스템 보안위협 탐지 AI 경진대회 3위](https://dacon.io/competitions/official/235624/codeshare/1832?page=1&dtype=recent)
 
 ### 간편 Git 사용 방법
   - Git clone
