@@ -43,4 +43,5 @@ git push
 
 
 - 2022-07-08-금 오전 10시
-  - 발표: 연호(GAN), 승우(Autoencoder)
+  - 발표: 연호(GAN), 승우(AutoEncoder)
+  - 자료조사: 
