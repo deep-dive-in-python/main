@@ -43,3 +43,6 @@ git push
 
 - 2022-07-08-금 오전 10시
   - 발표: 연호(딥러닝 기초), 경선(CNN,RNN), 승우(AutoEncoder,GAN)
+
+- 2022-07-13-수 오전 10시
+  - [캐글 코드](https://www.kaggle.com/code/shivamb/semi-supervised-classification-using-autoencoders)
