@@ -15,7 +15,7 @@
   - [산업제어시스템 보안위협 탐지 AI 경진대회 3위](https://dacon.io/competitions/official/235624/codeshare/1832?page=1&dtype=recent)
 - [ANOMALY DETECTION 블로그](https://www.cognex.com/ko-kr/blogs/deep-learning/research/anomaly-detection-overview-1-introduction-anomaly-detection)
 - [GAN 한시간만에 완전정복](https://www.youtube.com/watch?v=odpjk7_tGY0&t=69s)
-- [emi-supervised learning 자료](https://blog.est.ai/2020/11/ssl/)
+- [Semi-supervised learning 자료](https://blog.est.ai/2020/11/ssl/)
 
 
 ### 간편 Git 사용 방법
