@@ -51,3 +51,4 @@ git push
 - 2022-07-15-금 오전 10시
   - [데이콘 코드 공유](https://dacon.io/competitions/official/235930/codeshare/5508?page=1&dtype=recent)
   - tsne를 이용한 시각화, 코드 공유 구현, encoder decoder 차원 축소>확대, 확대>축소 둘 다 해오기, 새로운 방법  
+  - [unsupervised anomaly detection](https://www.kaggle.com/code/victorambonati/unsupervised-anomaly-detection)
