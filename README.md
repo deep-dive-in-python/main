@@ -55,10 +55,11 @@ git push
 
 - 2022-07-18-월 오전 10시
   - validation set의 feature별 class=1의 분포 표현
-  - 참고사항 ) https://blog.naver.com/qkrdnjsrl0628/222802847577 : XBOS, based on K-MENAS clustering 
+  - 참고사항 ) [XBOS한글해석자료](https://blog.naver.com/qkrdnjsrl0628/222802847577) : XBOS, based on K-MENAS clustering 
       - XBOS는 k-means clustering을 첫 번째로 사용하며, 그 이후, 교차 상호작용을 활용합니다.
         교차 상호작용(Cross interaction)을 사용함으로서, 최소의 클러스는 근처의 클러스터에 속하게 되므로,
         변칙적인 문제가 발생하지 않습니다.
         
-        https://kanatoko.wordpress.com/2018/03/06/xbos-anomaly-detection/
-        https://github.com/Kanatoko/XBOS-anomaly-detection
+        [XBOS영어해석자료](https://kanatoko.wordpress.com/2018/03/06/xbos-anomaly-detection/)
+        [XBOS깃허브코드](https://github.com/Kanatoko/XBOS-anomaly-detection)
+  - 연호: XBOS, 승우: 변수선택해서 AE 돌려오기, 경선: [pycaret](https://towardsdatascience.com/unsupervised-anomaly-detection-in-python-f2e61be17c2b)
