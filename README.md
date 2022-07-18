@@ -62,3 +62,10 @@ git push
   - validation set의 feature별 class=1의 분포 표현
   - 사기거래가 0.1%이므로 semi-supervised 방법론을 이용해도 될 것 같다. [소개 및 주요 문제와 핵심 용어, 산업 현장 적용 사례 정리](https://hoya012.github.io/blog/anomaly-detection-overview-1/)
   - 연호: XBOS, 승우: 변수선택해서 AE 돌려오기, 경선: [pycaret](https://towardsdatascience.com/unsupervised-anomaly-detection-in-python-f2e61be17c2b)
+  - 목표: 정확도 퍼센트 가져오기
+
+- 2022-07-21-목 오전 10시
+  - 정확도 비교 및 모델 선정
+
+- 2022-07-25-월 오전 10시
+  - data 분석, 모델 평가, 분석 
