@@ -62,4 +62,5 @@ git push
         
         [XBOS영어해석자료](https://kanatoko.wordpress.com/2018/03/06/xbos-anomaly-detection/)
         [XBOS깃허브코드](https://github.com/Kanatoko/XBOS-anomaly-detection)
+  - 사기거래가 0.1%이므로 semi-supervised 방법론을 이용해도 될 것 같다. [소개 및 주요 문제와 핵심 용어, 산업 현장 적용 사례 정리](https://hoya012.github.io/blog/anomaly-detection-overview-1/)
   - 연호: XBOS, 승우: 변수선택해서 AE 돌려오기, 경선: [pycaret](https://towardsdatascience.com/unsupervised-anomaly-detection-in-python-f2e61be17c2b)
