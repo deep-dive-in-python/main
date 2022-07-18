@@ -16,6 +16,11 @@
 - [ANOMALY DETECTION 블로그](https://www.cognex.com/ko-kr/blogs/deep-learning/research/anomaly-detection-overview-1-introduction-anomaly-detection)
 - [GAN 한시간만에 완전정복](https://www.youtube.com/watch?v=odpjk7_tGY0&t=69s)
 - [Semi-supervised learning 자료](https://blog.est.ai/2020/11/ssl/)
+- [XBOS한글해석자료](https://blog.naver.com/qkrdnjsrl0628/222802847577) : XBOS, based on K-MENAS clustering 
+  - XBOS는 k-means clustering을 첫 번째로 사용하며, 그 이후, 교차 상호작용을 활용합니다.
+  - 교차 상호작용(Cross interaction)을 사용함으로서, 최소의 클러스는 근처의 클러스터에 속하게 되므로, 변칙적인 문제가 발생하지 않습니다.
+  - [XBOS영어해석자료](https://kanatoko.wordpress.com/2018/03/06/xbos-anomaly-detection/)
+  - [XBOS깃허브코드](https://github.com/Kanatoko/XBOS-anomaly-detection)
 
 
 ### 간편 Git 사용 방법
@@ -55,12 +60,5 @@ git push
 
 - 2022-07-18-월 오전 10시
   - validation set의 feature별 class=1의 분포 표현
-  - 참고사항 ) [XBOS한글해석자료](https://blog.naver.com/qkrdnjsrl0628/222802847577) : XBOS, based on K-MENAS clustering 
-      - XBOS는 k-means clustering을 첫 번째로 사용하며, 그 이후, 교차 상호작용을 활용합니다.
-        교차 상호작용(Cross interaction)을 사용함으로서, 최소의 클러스는 근처의 클러스터에 속하게 되므로,
-        변칙적인 문제가 발생하지 않습니다.
-        
-        [XBOS영어해석자료](https://kanatoko.wordpress.com/2018/03/06/xbos-anomaly-detection/)
-        [XBOS깃허브코드](https://github.com/Kanatoko/XBOS-anomaly-detection)
   - 사기거래가 0.1%이므로 semi-supervised 방법론을 이용해도 될 것 같다. [소개 및 주요 문제와 핵심 용어, 산업 현장 적용 사례 정리](https://hoya012.github.io/blog/anomaly-detection-overview-1/)
   - 연호: XBOS, 승우: 변수선택해서 AE 돌려오기, 경선: [pycaret](https://towardsdatascience.com/unsupervised-anomaly-detection-in-python-f2e61be17c2b)
