@@ -72,6 +72,9 @@ git push
 
 - 2022-07-21-목 오전 10시
   - 정확도 비교 및 모델 선정
+  - 승우: 이상치 over sampling 정상거래는 under sampling & Feature engineering
+  - 연호: ANOGAN으로 구현
+  - 경선: AE 스스로 짜오기
 
 - 2022-07-25-월 오전 10시
   - data 분석, 모델 평가, 분석 등
