@@ -1,0 +1,7 @@
+https://blog.naver.com/qkrdnjsrl0628/222802847577 : XBOS, based on K-MENAS clustering 
+      - XBOS는 k-means clustering을 첫 번째로 사용하며, 그 이후, 교차 상호작용을 활용합니다.
+        교차 상호작용(Cross interaction)을 사용함으로서, 최소의 클러스는 근처의 클러스터에 속하게 되므로,
+        변칙적인 문제가 발생하지 않습니다.
+        
+        https://kanatoko.wordpress.com/2018/03/06/xbos-anomaly-detection/
+        https://github.com/Kanatoko/XBOS-anomaly-detection
