@@ -75,6 +75,7 @@ git push
   - 승우: 이상치 over sampling 정상거래는 under sampling & Feature engineering
   - 연호: ANOGAN으로 구현
   - 경선: AE 스스로 짜오기
+  - 파일 하나씩 제출해서 다음 스터디때 팀 만들 수 있게 하기
 
 - 2022-07-25-월 오전 10시
   - data 분석, 모델 평가, 분석 등
