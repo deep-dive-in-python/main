@@ -79,3 +79,12 @@ git push
 
 - 2022-07-25-월 오전 10시
   - data 분석, 모델 평가, 분석 등
+  - over sampling, under sampling은 labeled 데이터가 아니라서 의미가 없을듯.
+  - train class에서 validation의 thr 조정을 어떻게 해야할지 모름.
+  - ANOGAN과 VAE를 시도하였으나 labeled가 아니라서 고전중.
+  - feature를 forward selection 하려고 했으나 아직 진행중.
+  - feature의 selection을 어떤 기준으로 cutoff할지 이론적인 비모수 방법론 이용.
+  -----
+  - 다음 시간에 할 것: cutoff 방법론 적용, forward selection 다음 시간에 제출.
+  - 
+- 2022-07-28-목 오전 10시
