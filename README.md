@@ -89,3 +89,10 @@ git push
   - 경선: 지금까지 한거 정리해서 글쓰기.
   - 연호: 다음 대회 찾아오기
 - 2022-07-28-목 오전 11시
+  > 데이터 경진대회(연호)
+    1. [3d 이미지](https://dacon.io/competitions/official/235951/data) : 숫자 3D 이미지 분류 AI 모델 개발
+    2. [한강 수위예측](https://dacon.io/competitions/official/235949/overview/description) : 시계열
+    3. [American Express](https://www.kaggle.com/competitions/amex-default-prediction/overview)
+    4. cos pro 자격증 by studying at the site of 백준(https://www.acmicpc.net/)
+  > 승우, 변수선택 코드 설명(완료)
+  > 경선, 취침후 사망
