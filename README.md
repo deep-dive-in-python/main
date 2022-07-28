@@ -95,4 +95,5 @@ git push
     3. [American Express](https://www.kaggle.com/competitions/amex-default-prediction/overview)
     4. cos pro 자격증 by studying at the site of 백준(https://www.acmicpc.net/)
   > 승우, 변수선택 코드 설명(완료)
+  > 
   > 경선, 취침후 사망
