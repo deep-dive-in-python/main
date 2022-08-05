@@ -4,7 +4,7 @@
 
 ## 스터디 방식
 - ⏰ 스터디 시간 : 매주 수,금 오후 2시
-- 📗 스터디 자료 : [데이콘 이상 신용거래 예측](https://dacon.io/competitions/official/235930/overview/description)
+- 📗 스터디 자료 : [데이콘 이상 신용거래 예측](https://dacon.io/competitions/official/235930/overview/description), [숫자 3D 이미지 분류 AI 경진대회](https://dacon.io/competitions/official/235951/overview/description)
   - 우수 코드를 분석하며 노트(Jupyter notebook)에 정리
   - 제안, 질문은 [Issues](https://github.com/deep-dive-in-python/main/issues) 를 이용
   
