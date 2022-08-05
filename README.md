@@ -91,8 +91,7 @@ git push
   - 다음 시간에 할 것: cutoff 방법론 적용, forward selection 다음 시간에 제출.
   - 경선: 지금까지 한거 정리해서 글쓰기.
   - 연호: 다음 대회 찾아오기
------
-### 숫자 3d 이미지 분류 AI모델 개발-computer vision
+
 - 2022-07-28-목 오전 11시
   > 데이터 경진대회(연호)
     1. [3d 이미지](https://dacon.io/competitions/official/235951/data) : 숫자 3D 이미지 분류 AI 모델 개발
@@ -101,7 +100,8 @@ git push
     4. cos pro 자격증 by studying at the site of 백준(https://www.acmicpc.net/)
   > 승우, 변수선택 코드 설명(완료)
   > 경선, 취침후 사망
-  
+-----
+### 숫자 3d 이미지 분류 AI모델 개발-computer vision  
 - 2022-08-05-금 오후 2시
   - 경선: 코드 정리 설명
   - 다음 스터디 주제로 [숫자 3D 이미지 분류 AI 모델 개발](https://dacon.io/competitions/official/235951/data) 선정
