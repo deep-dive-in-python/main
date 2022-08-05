@@ -3,7 +3,7 @@
 
 
 ## 스터디 방식
-- ⏰ 스터디 시간 : 매주 수,금 10시
+- ⏰ 스터디 시간 : 매주 수,금 오후 2시
 - 📗 스터디 자료 : [데이콘 이상 신용거래 예측](https://dacon.io/competitions/official/235930/overview/description)
   - 우수 코드를 분석하며 노트(Jupyter notebook)에 정리
   - 제안, 질문은 [Issues](https://github.com/deep-dive-in-python/main/issues) 를 이용
@@ -48,6 +48,7 @@ git push
 
 
 ## 스터디 기록
+### 이상 신용거래 탐지- Unsupervised learning
 - 2022-06-28-화 오전 10시
   - 스터디 계획 수립
   
@@ -91,6 +92,7 @@ git push
   - 경선: 지금까지 한거 정리해서 글쓰기.
   - 연호: 다음 대회 찾아오기
 -----
+### 숫자 3d 이미지 분류 AI모델 개발-computer vision
 - 2022-07-28-목 오전 11시
   > 데이터 경진대회(연호)
     1. [3d 이미지](https://dacon.io/competitions/official/235951/data) : 숫자 3D 이미지 분류 AI 모델 개발
