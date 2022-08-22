@@ -118,5 +118,5 @@ git push
   - 경선, 연호: data augmentation 돌리고 3d CNN 돌려오기
 - 2022-08-22-월 오후 2시
   - 신용카드 이상거래탐지 1,2,3등 코드 리뷰+상세한 설명
-  - 1등(연호), 2등(승우), 3등(경선)
+  - 1등(연호) : https://ideaserver4.snu.ac.kr:8443/hub/user-redirect/lab/tree/Fraud%20detection, 2등(승우), 3등(경선)
   
